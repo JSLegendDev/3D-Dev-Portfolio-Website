@@ -1,0 +1,18 @@
+@font-face {
+    font-family: ArchivoBlack;
+    src: url(fonts/ArchivoBlack-Regular.ttf);
+}
+
+@font-face {
+    font-family: IBMPlexSans;
+    src: url(fonts/IBMPlexSans-Regular.ttf);
+}
+
+body {
+    font-family: ArchivoBlack;
+}
+
+p, ul {
+    font-family: IBMPlexSans;
+    font-weight: bolder;
+}
